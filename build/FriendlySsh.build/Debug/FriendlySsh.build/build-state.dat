@@ -1,0 +1,249 @@
+TFriendlySsh
+v7
+r0
+t322895848.739684
+cCheck dependencies
+cProcessInfoPlistFile /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Info.plist Info.plist
+cStripNIB /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/ml/mllMEy1LH14iPxdTaili5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FriendlySsh_Prefix-dmpscwgsowjeigbnpmtgeejbkdpi/FriendlySsh_Prefix.pch.gch FriendlySsh_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/main.o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/FriendlySsh.o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/Host.o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/MacOS/FriendlySsh normal i386
+cTouch /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004D3195DB00000000000000EE
+t1295095259
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/English.lproj/InfoPlist.strings
+c000000004D8C215700000000000000CA
+t1301029207
+s202
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/English.lproj/MainMenu.nib
+c000000004D8EC7630000000000000088
+t1301202787
+s136
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.h
+c000000004D8EC6EC0000000000000430
+t1301202668
+s1072
+i<Cocoa/Cocoa.h>
+i"Host.h"
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m
+c000000004D8EC6F8000000000000158B
+t1301202680
+s5515
+i"FriendlySsh.h"
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh_Prefix.pch
+c000000004D8C21570000000000000095
+t1301029207
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.h
+c000000004D8C3AFD0000000000000263
+t1301035773
+s611
+i<Cocoa/Cocoa.h>
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m
+c000000004D8C3C0B0000000000000785
+t1301036043
+s1925
+i"Host.h"
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app
+t1301203044
+s102
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Info.plist
+t1301203039
+s812
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/MacOS/FriendlySsh
+t1301203044
+s25692
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/PkgInfo
+t1301203039
+s8
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1301203039
+s202
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Resources/English.lproj/MainMenu.nib
+t1301203039
+s7398
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/FriendlySsh.LinkFileList
+c000000004D8EC85F00000000000001B4
+t1301203039
+s436
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/FriendlySsh.o
+t1301203044
+s29592
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/Host.o
+t1301203044
+s12868
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/main.o
+t1301203044
+s4912
+
+N/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/main.m
+c000000004D8C21570000000000000100
+t1301029207
+s256
+i<Cocoa/Cocoa.h>
+
+N/var/folders/ml/mllMEy1LH14iPxdTaili5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FriendlySsh_Prefix-dmpscwgsowjeigbnpmtgeejbkdpi/FriendlySsh_Prefix.pch.gch
+t1301203043
+s54006160
+
+NInfo.plist
+c000000004D8EB56E0000000000000367
+t1301198190
+s871
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322895848#322895848#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/FriendlySsh.o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322895843.913241
+e322895844.159263
+r1
+xCompileC
+xbuild/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/FriendlySsh.o
+x/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m: In function '-[FriendlySsh updateIPAddress:]':
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:58: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m: In function '-[FriendlySsh doAddHost:]':
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:116: warning: no '-beginSheet:modalForWindow:modalDelegate:contextInfo:' method found
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:116: warning: (Messages without a matching method signature
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:116: warning: will be assumed to return 'id' and accept
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:116: warning: '...' as arguments.)
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m: In function '-[FriendlySsh saveToFile:]':
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:142: warning: passing argument 1 of 'setValue:forKey:' makes pointer from integer without a cast
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:154: warning: format not a string literal and no format arguments
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m: In function '-[FriendlySsh loadFromFile:]':
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:171: warning: format not a string literal and no format arguments
+lSLF07#2@89"Compile /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m322895843#322895844#0(1797"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m: In function '-[FriendlySsh updateIPAddress:]':/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:58: warning: 'stringWithContentsOfURL:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m: In function '-[FriendlySsh doAddHost:]':/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:116: warning: no '-beginSheet:modalForWindow:modalDelegate:contextInfo:' method found/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:116: warning: (Messages without a matching method signature/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:116: warning: will be assumed to return 'id' and accept/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:116: warning: '...' as arguments.)/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m: In function '-[FriendlySsh saveToFile:]':/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:142: warning: passing argument 1 of 'setValue:forKey:' makes pointer from integer without a cast/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:154: warning: format not a string literal and no format arguments/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m: In function '-[FriendlySsh loadFromFile:]':/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m:171: warning: format not a string literal and no format arguments6(22@155"'stringWithContentsOfURL:' is deprecated (declared at /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:358)322895843#130#251#0(6@81"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m322895480#58#0#58#0#33"'*' is deprecated (declared at *)0(22@71"No '-beginSheet:modalForWindow:modalDelegate:contextInfo:' method found322895843#505#168#0(6@81"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m322895480#116#0#116#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)322895843#673#142#0(6@81"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m322895480#116#0#116#0#0"0(22@82"Passing argument 1 of 'setValue:forKey:' makes pointer from integer without a cast322895843#1195#179#0(6@81"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m322895480#142#0#142#0#0"0(22@51"Format not a string literal and no format arguments322895843#1374#148#0(6@81"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m322895480#154#0#154#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments322895843#1649#148#0(6@81"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m322895480#171#0#171#0#51"format not a string literal and no format arguments0(0#0#81"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m4300882208#1359"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/FriendlySsh.hmap -F/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/include -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/DerivedSources/i386 -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/DerivedSources -include /var/folders/ml/mllMEy1LH14iPxdTaili5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FriendlySsh_Prefix-dmpscwgsowjeigbnpmtgeejbkdpi/FriendlySsh_Prefix.pch -c /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh.m -o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/FriendlySsh.o0#
+
+CCompileC build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/Host.o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322895844.077420
+e322895844.273336
+r1
+xCompileC
+xbuild/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/Host.o
+x/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m: In function '-[Host init]':
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:17: warning: 'Host' may not respond to '-setUsername:'
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:17: warning: (Messages without a matching method signature
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:17: warning: will be assumed to return 'id' and accept
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:17: warning: '...' as arguments.)
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m: In function '-[Host matchToString:]':
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:91: warning: unused variable 'rangePort'
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m: At top level:
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:96: warning: incomplete implementation of class 'Host'
+o/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:96: warning: method definition for '-setTitle:' not found
+lSLF07#2@82"Compile /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m322895844#322895844#0(1190"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m: In function '-[Host init]':/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:17: warning: 'Host' may not respond to '-setUsername:'/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:17: warning: (Messages without a matching method signature/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:17: warning: will be assumed to return 'id' and accept/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:17: warning: '...' as arguments.)/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m: In function '-[Host matchToString:]':/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:91: warning: unused variable 'rangePort'/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m: At top level:/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:96: warning: incomplete implementation of class 'Host'/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m:96: warning: method definition for '-setTitle:' not found6(22@41"'Host' may not respond to '-setUsername:'322895844#104#130#0(6@74"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m322728843#17#0#17#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)322895844#234#134#0(6@74"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m322728843#17#0#17#0#0"0(22@27"Unused variable 'rangePort'322895844#721#116#0(6@74"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m322728843#91#0#91#0#19"unused variable '*'0(23@13"At top level:322895844#837#90#0(6@74"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m322728843#0#0#0#0#0"0(22@41"Incomplete implementation of class 'Host'322895844#927#130#0(6@74"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m322728843#96#0#96#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-setTitle:' not found322895844#1057#133#0(6@74"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m322728843#96#0#96#0#35"method definition for '*' not found0(0#0#74"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m8386658438684291072#1345"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/FriendlySsh.hmap -F/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/include -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/DerivedSources/i386 -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/DerivedSources -include /var/folders/ml/mllMEy1LH14iPxdTaili5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FriendlySsh_Prefix-dmpscwgsowjeigbnpmtgeejbkdpi/FriendlySsh_Prefix.pch -c /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Host.m -o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/Host.o0#
+
+CCompileC build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/main.o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322895843.880021
+e322895844.077312
+r1
+xCompileC
+xbuild/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/main.o
+x/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/main.m322895843#322895844#0(0"0(0#0#74"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/main.m4300882208#1345"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/FriendlySsh.hmap -F/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/include -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/DerivedSources/i386 -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/DerivedSources -include /var/folders/ml/mllMEy1LH14iPxdTaili5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FriendlySsh_Prefix-dmpscwgsowjeigbnpmtgeejbkdpi/FriendlySsh_Prefix.pch -c /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/main.m -o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s322895839.474298
+e322895839.627387
+r1
+xCopyStringsFile
+x/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings322895839#322895839#0(0"0(0#0#99"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/English.lproj/InfoPlist.strings4300882208#428"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Resources/English.lproj0#
+
+CLd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/MacOS/FriendlySsh normal i386
+s322895844.273429
+e322895844.357653
+r1
+xLd
+x/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/MacOS/FriendlySsh
+xnormal
+xi386
+lSLF07#2@127"Link /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/MacOS/FriendlySsh322895844#322895844#0(0"0(0#0#0"4300882208#703"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug -F/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug -filelist /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/Objects-normal/i386/FriendlySsh.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/MacOS/FriendlySsh0#
+
+CProcessInfoPlistFile /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Info.plist Info.plist
+s322895839.469047
+e322895839.472774
+r1
+xProcessInfoPlistFile
+x/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist322895839#322895839#0(0"0(0#0#78"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/Info.plist29555362185478192#397"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    builtin-infoPlistUtility Info.plist -genpkginfo /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/ml/mllMEy1LH14iPxdTaili5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FriendlySsh_Prefix-dmpscwgsowjeigbnpmtgeejbkdpi/FriendlySsh_Prefix.pch.gch FriendlySsh_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322895839.627614
+e322895843.879661
+r1
+xProcessPCH
+x/var/folders/ml/mllMEy1LH14iPxdTaili5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FriendlySsh_Prefix-dmpscwgsowjeigbnpmtgeejbkdpi/FriendlySsh_Prefix.pch.gch
+xFriendlySsh_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile FriendlySsh_Prefix.pch322895839#322895843#0(0"0(0#0#90"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh_Prefix.pch4300882208#1220"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/FriendlySsh.hmap -F/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/include -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/DerivedSources/i386 -I/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/FriendlySsh.build/Debug/FriendlySsh.build/DerivedSources -c /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/FriendlySsh_Prefix.pch -o /var/folders/ml/mllMEy1LH14iPxdTaili5E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FriendlySsh_Prefix-dmpscwgsowjeigbnpmtgeejbkdpi/FriendlySsh_Prefix.pch.gch0#
+
+CStripNIB /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/English.lproj/MainMenu.nib
+s322895839.472870
+e322895839.605567
+r1
+xStripNIB
+x/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib322895839#322895839#0(0"0(0#0#94"/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/English.lproj/MainMenu.nib4300882208#386"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    /Developer/usr/bin/ibtool --strip /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/English.lproj/MainMenu.nib0#
+
+CTouch /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app
+s322895844.357748
+e322895844.360581
+r1
+xTouch
+x/Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app
+lSLF07#2@101"Touch /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app322895844#322895844#0(0"0(0#0#0"4300882208#193"    cd /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh    /usr/bin/touch -c /Users/chrishexton/Desktop/development/workspaces/cocoa/FriendlySsh/build/Debug/FriendlySsh.app0#
+

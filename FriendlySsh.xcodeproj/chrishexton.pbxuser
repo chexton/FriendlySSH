@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 100}";
+			sepNavWindowFrame = "{{61, 173}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D20BEFC9133C58D70016D405 /* IPMenulet */;
+		activeTarget = 8D1107260486CEB800E47090 /* FriendlySsh */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* FriendlySsh */,
+		);
+		breakpoints = (
+			D2786BB9133EE87A000BFA8A /* FriendlySsh.m:42 */,
+			D2786BBE133EE89E000BFA8A /* FriendlySsh.m:50 */,
+		);
+		codeSenseManager = D20BEFDB133C58DC0016D405 /* Code sense */;
+		executables = (
+			D20BEFC9133C58D70016D405 /* IPMenulet */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					355,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322895826;
+			PBXWorkspaceStateSaveDate = 322895826;
+		};
+		perUserProjectItems = {
+			D20329E4133EFF50002C3862 /* PBXTextBookmark */ = D20329E4133EFF50002C3862 /* PBXTextBookmark */;
+			D20BEFFF133C5C030016D405 /* PlistBookmark */ = D20BEFFF133C5C030016D405 /* PlistBookmark */;
+			D241D290133EFFF1004E61FE /* PBXTextBookmark */ = D241D290133EFFF1004E61FE /* PBXTextBookmark */;
+			D2786CDC133EFE86000BFA8A /* PBXTextBookmark */ = D2786CDC133EFE86000BFA8A /* PBXTextBookmark */;
+			D2BBC495133C738F0018F5A8 /* PBXTextBookmark */ = D2BBC495133C738F0018F5A8 /* PBXTextBookmark */;
+			D2BBC4A7133C740E0018F5A8 /* PBXTextBookmark */ = D2BBC4A7133C740E0018F5A8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = D20BEFDA133C58DC0016D405 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* FriendlySsh */ = {
+		activeExec = 0;
+		executables = (
+			D20BEFC9133C58D70016D405 /* IPMenulet */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 64}, {750, 714}}";
+		};
+	};
+	D20329E4133EFF50002C3862 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D20BEFDE133C58EB0016D405 /* FriendlySsh.m */;
+		name = "FriendlySsh.m: 40";
+		rLen = 0;
+		rLoc = 857;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 669;
+	};
+	D20BEFC9133C58D70016D405 /* IPMenulet */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = IPMenulet;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D20BEFDA133C58DC0016D405 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D20BEFDB133C58DC0016D405 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D20BEFDD133C58EB0016D405 /* FriendlySsh.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 572}}";
+			sepNavSelRange = "{545, 0}";
+			sepNavVisRange = "{181, 891}";
+			sepNavWindowFrame = "{{499, 220}, {750, 558}}";
+		};
+	};
+	D20BEFDE133C58EB0016D405 /* FriendlySsh.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2626}}";
+			sepNavSelRange = "{857, 0}";
+			sepNavVisRange = "{702, 306}";
+			sepNavWindowFrame = "{{4, 90}, {998, 688}}";
+		};
+	};
+	D20BEFFF133C5C030016D405 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/chrishexton/Desktop/development/workspaces/cocoa/IPMenulet/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D241D290133EFFF1004E61FE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D20BEFDE133C58EB0016D405 /* FriendlySsh.m */;
+		name = "FriendlySsh.m: 40";
+		rLen = 0;
+		rLoc = 857;
+		rType = 0;
+		vrLen = 306;
+		vrLoc = 702;
+	};
+	D2786BB9133EE87A000BFA8A /* FriendlySsh.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D20BEFDE133C58EB0016D405 /* FriendlySsh.m */;
+		functionName = "-awakeFromNib";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = IPMenulet;
+		modificationTime = 322889926.87545;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	D2786BBE133EE89E000BFA8A /* FriendlySsh.m:50 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = D20BEFDE133C58EB0016D405 /* FriendlySsh.m */;
+		functionName = "-awakeFromNib";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 50;
+		location = IPMenulet;
+		modificationTime = 322889928.982158;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	D2786CDC133EFE86000BFA8A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D20BEFDD133C58EB0016D405 /* FriendlySsh.h */;
+		name = "FriendlySsh.h: 19";
+		rLen = 0;
+		rLoc = 344;
+		rType = 0;
+		vrLen = 283;
+		vrLoc = 231;
+	};
+	D2BBC423133C6FD90018F5A8 /* Host.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 586}}";
+			sepNavSelRange = "{332, 0}";
+			sepNavVisRange = "{0, 611}";
+			sepNavWindowFrame = "{{447, 64}, {750, 714}}";
+		};
+	};
+	D2BBC424133C6FD90018F5A8 /* Host.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 1261}}";
+			sepNavSelRange = "{1828, 0}";
+			sepNavVisRange = "{192, 769}";
+			sepNavWindowFrame = "{{15, 64}, {750, 714}}";
+		};
+	};
+	D2BBC495133C738F0018F5A8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2BBC423133C6FD90018F5A8 /* Host.h */;
+		name = "Host.h: 33";
+		rLen = 0;
+		rLoc = 611;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 14;
+	};
+	D2BBC4A7133C740E0018F5A8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = D2BBC424133C6FD90018F5A8 /* Host.m */;
+		name = "Host.m: 93";
+		rLen = 0;
+		rLoc = 1828;
+		rType = 0;
+		vrLen = 341;
+		vrLoc = 1584;
+	};
+}

@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'IPMenulet' target in the 'IPMenulet' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
