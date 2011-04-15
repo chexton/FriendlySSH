@@ -11,13 +11,10 @@
 
 @implementation HostController
 
-- (id)initWithWindow:(NSWindow *)window
+- (id) init
 {
-    self = [super initWithWindow:window];
-    if (self) {
-        // Initialization code here.
-    }
-    
+    self = [super initWithWindowNibName:@"HostWindow"];
+    if (self) {}
     return self;
 }
 
@@ -26,9 +23,10 @@
     [super dealloc];
 }
 
-- (void)windowDidLoad
+- (void)awakeFromNib
 {
-    [super windowDidLoad];
+    [super awakeFromNib];
+    [self showWindow:nil];
     
     // Implement this method to handle any initialization after your window controller's window has been loaded from its nib file.
 }

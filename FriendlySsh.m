@@ -104,17 +104,10 @@
     [self saveToFile:[self defaultFileName]];
 }
 
-- (IBAction)doAddHost: (id)pId 
+- (IBAction)doAddHost: (id)sender
 {    
-    //[panelInputUsername selectText:nil];
-    //editHostState = @"adding";
-	
-    
-    [NSApp beginSheet: panelSheet
-       modalForWindow: self
-        modalDelegate: self
-          contextInfo: nil];
-	
+	HostController *window = [[HostController alloc] init];
+    [window.window makeKeyAndOrderFront:self];
 }
 
 - (IBAction)doCancelEditHost:(id)pId {
@@ -122,10 +115,6 @@
     [panelInputHost setStringValue:@""];
     [panelInputPort setStringValue:@""];
     [NSApp endSheet:panelSheet];
-}
-
-- (void)didEndSheet:(NSWindow *)sheet returnCode:(int)returnCode contextInfo:(void *)contextInfo{
-    [panelSheet orderOut:self];
 }
 
 

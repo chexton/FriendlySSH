@@ -7,6 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import "HostController.h"
 #import "Host.h"
 
 @interface FriendlySsh : NSObject {
@@ -32,9 +33,8 @@
 -(IBAction)doLaunchSshTunnel:(id)sender;
 // Add the hosts
 -(IBAction)doConfirmAddHost:(id)pId;
--(IBAction)doAddHost:(id)pId;
+-(IBAction)doAddHost:(id)sender;
 -(IBAction)doCancelEditHost: (id)pId;
-- (void)didEndSheet:(NSWindow *)sheet returnCode:(int)returnCode contextInfo:(void *)contextInfo;
 // Retreive and save hosts
 - (void) saveToFile: (NSString *)fileName;
 - (void) loadFromFile: (NSString *)fileName;

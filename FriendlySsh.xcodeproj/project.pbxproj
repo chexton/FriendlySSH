@@ -12,6 +12,8 @@
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		D20BEFDF133C58EB0016D405 /* FriendlySsh.m in Sources */ = {isa = PBXBuildFile; fileRef = D20BEFDE133C58EB0016D405 /* FriendlySsh.m */; };
+		D268C2781353EE5600FC983E /* HostController.m in Sources */ = {isa = PBXBuildFile; fileRef = D268C2771353EE5600FC983E /* HostController.m */; };
+		D268C27A1353EEE900FC983E /* HostWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = D268C2791353EEE900FC983E /* HostWindow.xib */; };
 		D2BBC425133C6FD90018F5A8 /* Host.m in Sources */ = {isa = PBXBuildFile; fileRef = D2BBC424133C6FD90018F5A8 /* Host.m */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +30,9 @@
 		8D1107320486CEB800E47090 /* FriendlySsh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FriendlySsh.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D20BEFDD133C58EB0016D405 /* FriendlySsh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendlySsh.h; sourceTree = "<group>"; };
 		D20BEFDE133C58EB0016D405 /* FriendlySsh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendlySsh.m; sourceTree = "<group>"; };
+		D268C2761353EE5600FC983E /* HostController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HostController.h; sourceTree = "<group>"; };
+		D268C2771353EE5600FC983E /* HostController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HostController.m; sourceTree = "<group>"; };
+		D268C2791353EEE900FC983E /* HostWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HostWindow.xib; sourceTree = "<group>"; };
 		D2BBC423133C6FD90018F5A8 /* Host.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Host.h; sourceTree = "<group>"; };
 		D2BBC424133C6FD90018F5A8 /* Host.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Host.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -51,6 +56,8 @@
 				D2BBC424133C6FD90018F5A8 /* Host.m */,
 				D20BEFDD133C58EB0016D405 /* FriendlySsh.h */,
 				D20BEFDE133C58EB0016D405 /* FriendlySsh.m */,
+				D268C2761353EE5600FC983E /* HostController.h */,
+				D268C2771353EE5600FC983E /* HostController.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -108,6 +115,7 @@
 				8D1107310486CEB800E47090 /* Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
 				29B97318FDCFA39411CA2CEA /* MainMenu.nib */,
+				D268C2791353EEE900FC983E /* HostWindow.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -149,7 +157,11 @@
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FriendlySsh" */;
 			compatibilityVersion = "Xcode 3.0";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* FriendlySsh */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -166,6 +178,7 @@
 			files = (
 				8D11072A0486CEB800E47090 /* MainMenu.nib in Resources */,
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				D268C27A1353EEE900FC983E /* HostWindow.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,6 +192,7 @@
 				8D11072D0486CEB800E47090 /* main.m in Sources */,
 				D20BEFDF133C58EB0016D405 /* FriendlySsh.m in Sources */,
 				D2BBC425133C6FD90018F5A8 /* Host.m in Sources */,
+				D268C2781353EE5600FC983E /* HostController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,6 +221,8 @@
 		C01FCF4B08A954540054247B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
@@ -217,6 +233,7 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = FriendlySsh;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
 				WRAPPER_EXTENSION = app;
 				ZERO_LINK = YES;
 			};
@@ -232,6 +249,7 @@
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = FriendlySsh;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.6.sdk";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
